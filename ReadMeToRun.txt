@@ -1,5 +1,5 @@
 //
-The geektrust.py contains the python file which will run the command line application
+The billings_solution.py contains the python file which will run the command line application
 
 //
 Run it on the terminal by: python3 billings_solution.py
